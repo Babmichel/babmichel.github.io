@@ -10,4 +10,5 @@ order: 1
 > Work in progress, don't worry and don't worry me, i'm a "force tranquille".
 >
 # Thesis
-> I am supervised by Dr Naya-Plasencia and Dr Derbez for "Optimizing cryptanalysis of symmetric primitives"
+> I am supervised by Dr Naya-Plasencia and Dr Derbez for "Optimizing cryptanalysis of symmetric primitives" with the funding of the ERC "SoBaSyC".\
+> My goal is to encode some informatic tools in order to optimize the cryptanalysis of current symmetric primitives !
