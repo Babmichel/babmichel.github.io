@@ -13,22 +13,5 @@ To contact me try one of this :\
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Merci jules pour la page Jekyll ;)
+> *Merci jules pour la page Jekyll ;)*
 ---
