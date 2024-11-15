@@ -6,12 +6,12 @@ layout: page
 To contact me try one of this :
 > Research mail : bastien.michel@inria.fr \
 > Personal mail : babmichel37460@gmail.fr \
-> Phone number (SMS or vocal messages only) : +33630099721 \
+> Phone number (SMS or vocal messages only) : +33630099721 
 
 # Work actuality :
-... processing ...
+...  processing  ...
 
 
 
-> *Merci jules pour la page Jekyll ;)*
+> *Merci jules pour la page Jekyll :)*
 ---
