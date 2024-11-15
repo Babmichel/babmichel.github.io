@@ -11,5 +11,5 @@ order: 4
 
 > I was born the 31 march of 2000 in the city of Le Puy En Velay  and grow up to the village of Saint Jean de Nay, wich makes me an "Auvergnat". When I was six we moove to Genille a village in Touraine, and that makes me a "Tourangeau". Now i'm working at INRIA Paris and I live in the 13th Distric so i guess i'm a "Parisien" ! I you look for any advice for visiting thoose region feel free to ask :] !\
 
-![Texte alternatif](lepuy.jpg "Le Puy En Velay").
-![Texte alternatif](loches.jpg "Loches").
+![Texte alternatif](/_tabs/lepuy.jpg "Le Puy En Velay").
+![Texte alternatif](/_tabs/loches.jpg "Loches").
