@@ -10,7 +10,7 @@ order: 2
 > Computer engineer aggregation in 2023
 
 ### **Courses taught** :
-> oct 2024 - nov 2024 : Informatic TP (java), L1 at Diderot University, Paris \
+> oct 2024 - nov 2024 : Computer Science TP (java), L1 at Diderot University, Paris \
 > \
 > Comment : Not hard in an informatic point of view but very interesting pedagogically, function and list manipulation are not always that simple when it comes to explain it to someone who never code.
 
