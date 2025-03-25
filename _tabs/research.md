@@ -16,14 +16,15 @@ order: 1
 > I also look at the use of precomputed hash tables to improve cryptanalysis.
 
 # Conferences and Spring School
-> Mar 10-14, I attended FSE Spring Shcool organized by CASA, Ruhr-Universität Bochum. With lessons about :
+> ### Mar 10-14, FSE Spring school:
+> I attended FSE Spring Shcool organized by CASA, Ruhr-Universität Bochum. With lessons about :
 > - Boolean Function by Anne Canteaut
 > - Linear and Differential Cryptanalysis by Tim Beyne
 > - Automating Tools for symmetric-key Cryptanlysis by Maria Eichlseder
 > - Security of encryption modes by Bart Mennink
 > - Aritmetization oriented cryptanlysis by Leo Perrin
 >
-> Mar 15 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling (SKCAM)
+> ### Mar 15 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling (SKCAM)
 >
-> Mar 17-21 : 25th Fast Software Encryption Conferences (FSE)
+> ### Mar 17-21 : 25th Fast Software Encryption Conferences (FSE)
 > I didn't presented but i hope that I was at least a good lion at the rump session :)
