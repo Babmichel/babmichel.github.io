@@ -12,4 +12,18 @@ order: 1
 
 # Thesis
 > I am supervised by Dr Naya-Plasencia and Dr Derbez for "Optimizing cryptanalysis of symmetric primitives" with the funding of the ERC "SoBaSyC".\
-> My goal is to encode some informatic tools in order to optimize the cryptanalysis of current symmetric primitives!
+> My goal is to encode some informatic tools in order to optimize the cryptanalysis of current symmetric primitives! For now I am focusing my self on coding a MILP tool to found optimize differential Meet in the Middle attacks.
+> I also look at the use of precomputed hash tables to improve cryptanalysis.
+
+# Conferences and Spring School
+> Mar 10-14, I attended FSE Spring Shcool organized by CASA, Ruhr-Universität Bochum. With lessons about :
+> - Boolean Function by Anne Canteaut
+> - Linear and Differential Cryptanalysis by Tim Beyne
+> - Automating Tools for symmetric-key Cryptanlysis by Maria Eichlseder
+> - Security of encryption modes by Bart Mennink
+> - Aritmetization oriented cryptanlysis by Leo Perrin
+>
+> Mar 15 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling (SKCAM)
+>
+> Mar 17-21 : 25th Fast Software Encryption Conferences (FSE)
+> I didn't presented but i hope that I was at least a good lion at the rump session :)
