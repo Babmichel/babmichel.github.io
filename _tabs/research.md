@@ -30,4 +30,15 @@ order: 1
 > I didn't presented a paper but i hope that I was at least a good lion at the rump session 🦁
 >
 > * ### Mar 31 - Apr 04 : Codage and Cryptographie Days 2025 at Pornichet 🇫🇷
-> I Presented my thesis subject and the state of my work at this time. [Slides](https://github.com/Babmichel/babmichel.github.io/blob/main/assets/Presentation_Bastien_Michel.pdf "C2 Presentation"){.btn .btn-success}
+> I Presented my thesis subject and the state of my work at this time.
+> @conference{NIST22,
+  keywords={talk,international},
+  title =        "Practical cube-attack against nonce-misused Ascon",
+  event    = {NIST Fifth Lightweight Cryptography Workshop (online)},
+  year= {2022},
+  month = {May},
+  day = {10},
+  url = {https://csrc.nist.rip/events/2022/lightweight-cryptography-workshop-2022},
+  slides = {https://csrc.nist.rip/csrc/media/Presentations/2022/practical-cube-attack-against-nonce-misused-ascon/images-media/session-3-baudrin-practical-cube-attack-against-nonce-misused-ascon.pdf},
+  recording = {https://www.nist.gov/video/day-2-part-1-lightweight-cryptography-workshop-2022}
+}
