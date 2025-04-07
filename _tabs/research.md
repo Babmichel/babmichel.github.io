@@ -11,7 +11,7 @@ order: 1
 > Work in progress, don't worry and don't worry me, i'm a "force tranquille" ;).
 
 # Thesis
-> I am supervised by Dr Naya-Plasencia and Dr Derbez for "Optimizing cryptanalysis of symmetric primitives" with the funding of the ERC "SoBaSyC".\
+> I am supervised by [Dr Naya-Plasencia](http://naya.plasencia.free.fr/Maria/index.php?lg=fr&pg=index "Maria's web site") and Dr Derbez for "Optimizing cryptanalysis of symmetric primitives" with the funding of the ERC "SoBaSyC".\
 > My goal is to encode some informatic tools in order to optimize the cryptanalysis of current symmetric primitives! For now I am focusing my self on coding a MILP tool to found optimize differential Meet in the Middle attacks. \
 > I also look at the use of precomputed hash tables to improve cryptanalysis, specificaly how it can improve the key recovery of differential cryptanalysis.
 
@@ -30,15 +30,4 @@ order: 1
 > I didn't presented a paper but i hope that I was at least a good lion at the rump session 🦁
 >
 > * ### Mar 31 - Apr 04 : Codage and Cryptographie Days 2025 at Pornichet 🇫🇷
-> I Presented my thesis subject and the state of my work at this time.
-> @conference{NIST22,
-  keywords={talk,international},
-  title =        "Practical cube-attack against nonce-misused Ascon",
-  event    = {NIST Fifth Lightweight Cryptography Workshop (online)},
-  year= {2022},
-  month = {May},
-  day = {10},
-  url = {https://csrc.nist.rip/events/2022/lightweight-cryptography-workshop-2022},
-  slides = {https://csrc.nist.rip/csrc/media/Presentations/2022/practical-cube-attack-against-nonce-misused-ascon/images-media/session-3-baudrin-practical-cube-attack-against-nonce-misused-ascon.pdf},
-  recording = {https://www.nist.gov/video/day-2-part-1-lightweight-cryptography-workshop-2022}
-}
+> I Presented my thesis subject and the state of my work at this time. 
