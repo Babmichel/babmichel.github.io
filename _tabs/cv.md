@@ -11,6 +11,7 @@ order: 3
 
 ## Teaching
 > Oct - Nov 2024 : pratical lessons of Java, L1 Paris Diderot.\
+> Jan - March 2025 : Practical Lessons of Cryptography, M1 Data Jussieu.\
 > 2018 - 2024, High school and preparatory classroom tutoring.
 
 # School Career
@@ -31,9 +32,9 @@ order: 3
 > *sept 2019 - sept 2020 :  PT (physics and technology)*\
 > *sept 2019 - sept 2020 :  PTSI (physics, technology and engineer science)*
 
-### **2018 Baccalaureat **
+### **2018 Baccalaureat**
 > Science spe engineeriging, european section at Lycée Therese planiol
 
 # Others
 > RJMI 2024, INRIA\
-> TRACS 2023 (hackday), Central Supelec\
+> TRACS 2023 (hackday), Central Supelec
