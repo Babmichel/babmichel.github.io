@@ -29,5 +29,5 @@ order: 1
 > * ### Mar 17-21 : 25th Fast Software Encryption Conferences ([FSE](https://fse.iacr.org/2025/ "FSE 2025 website"), Roma 🇮🇹 .
 > I didn't presented a paper but i hope that I was at least a good lion at the rump session 🦁
 >
-> * ### Mar 31 - Apr 04 : Codage and Cryptographie ([C2](https://indico.math.cnrs.fr/event/11948/overview "C2 2025 website") Days 2025 at Pornichet 🇫🇷
+> * ### Mar 31 - Apr 04 : Codage and Cryptographie ([C2](https://indico.math.cnrs.fr/event/11948/overview "C2 2025 website")) Days 2025 at Pornichet 🇫🇷
 > I Presented my thesis subject and the state of my work at this time. 
