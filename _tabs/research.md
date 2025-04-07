@@ -18,11 +18,11 @@ order: 1
 # Conferences and Spring School
 > * ### Mar 10-14, [FSE Spring school](https://casa.rub.de/en/spring-school-on-symmetric-cryptography "Spring School website"), Roma 🇮🇹 :
 > I attended FSE Spring Shcool organized by CASA, Ruhr-Universität Bochum. With lessons about :
->> - Boolean Function by Anne Canteaut
->> - Linear and Differential Cryptanalysis by Tim Beyne
->> - Automating Tools for symmetric-key Cryptanlysis by Maria Eichlseder
->> - Security of encryption modes by Bart Mennink
->> - Aritmetization oriented cryptanlysis by Leo Perrin
+>> - Boolean Function by [Anne Canteaut](https://www.rocq.inria.fr/secret/Anne.Canteaut/ "Anne's website")
+>> - Linear and Differential Cryptanalysis by [Tim Beyne](https://cryptanalysis.info/tim/ "Tim's website")
+>> - Automating Tools for symmetric-key Cryptanlysis by [Maria Eichlseder](https://www.isec.tugraz.at/person/maria-eichlseder/ "Maria's website")
+>> - Security of encryption modes by [Bart Mennink](https://www.cs.ru.nl/~bmennink/index.php?page=home "Bart's website")
+>> - Aritmetization oriented cryptanlysis by [Leo Perrin](https://who.paris.inria.fr/Leo.Perrin/ "Leo's website")
 >
 > * ### Mar 15 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling ([SKCAM](https://skcamworkshop.github.io/skcam2025/ "SKCAM's website")), Roma 🇮🇹 .
 >
