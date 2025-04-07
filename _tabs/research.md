@@ -11,8 +11,8 @@ order: 1
 > Work in progress, don't worry and don't worry me, i'm a "force tranquille" ;).
 
 # Thesis
-> * I am supervised by [Dr Naya-Plasencia](http://naya.plasencia.free.fr/Maria/index.php?lg=fr&pg=index "Maria's web site") and [Dr Derbez](https://people.irisa.fr/Patrick.Derbez/ "Patrick's website") for "Optimizing cryptanalysis of symmetric primitives" with the funding of the ERC "SoBaSyC" in the [COSMIQ](https://www.inria.fr/fr/cosmiq "COSMIQ's website") team at Inria Paris.\
-> * My goal is to encode some informatic tools in order to optimize the cryptanalysis of current symmetric primitives! For now I am focusing my self on coding a MILP tool to found optimize differential Meet in the Middle attacks. \
+> * I am supervised by [Dr Naya-Plasencia](http://naya.plasencia.free.fr/Maria/index.php?lg=fr&pg=index "Maria's web site") and [Dr Derbez](https://people.irisa.fr/Patrick.Derbez/ "Patrick's website") for "Optimizing cryptanalysis of symmetric primitives" with the funding of the ERC "SoBaSyC" in the [COSMIQ](https://www.inria.fr/fr/cosmiq "COSMIQ's website") team at Inria Paris.
+> * My goal is to encode some informatic tools in order to optimize the cryptanalysis of current symmetric primitives! For now I am focusing my self on coding a MILP tool to found optimize differential Meet in the Middle attacks. 
 > * I also look at the use of precomputed hash tables to improve cryptanalysis, specificaly how it can improve the key recovery of differential cryptanalysis.
 
 # Conferences and Spring School
