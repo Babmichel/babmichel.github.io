@@ -24,7 +24,7 @@ order: 1
 >> - Security of encryption modes by Bart Mennink
 >> - Aritmetization oriented cryptanlysis by Leo Perrin
 >
-> * ### Mar 15 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling ([SKCAM](https://skcamworkshop.github.io/skcam2025/ "SKCAM's website"), Roma 🇮🇹 .
+> * ### Mar 15 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling ([SKCAM](https://skcamworkshop.github.io/skcam2025/ "SKCAM's website")), Roma 🇮🇹 .
 >
 > * ### Mar 17-21 : 25th Fast Software Encryption Conferences ([FSE](https://fse.iacr.org/2025/ "FSE 2025 website")), Roma 🇮🇹 .
 > I didn't presented a paper but i hope that I was at least a good lion at the rump session 🦁
