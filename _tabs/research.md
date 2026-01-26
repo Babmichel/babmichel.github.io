@@ -16,7 +16,8 @@ order: 1
 > * I also look at the construction of structures to improve Differential Meet in the Middle attacks.
 
 # Publication
-> [Improved Cryptanalysis of GIFT-64 ](https://tosc.iacr.org/index.php/ToSC/article/view/12618) published in TOSC 2025 and presented at FSE 2026. In this paper, I particularly work on the new Differential Meet-in-the-middle on 22 and 23 rounds of GIFT-64 in the SK setup.
+> ###[Improved Cryptanalysis of GIFT-64 ](https://tosc.iacr.org/index.php/ToSC/article/view/12618)
+> * Published in TOSC 2025 and presented at FSE 2026. In this paper, I particularly work on the new Differential Meet-in-the-middle on 22 and 23 rounds of GIFT-64 in the SK setup.
 
 # Conferences and Spring School
 > * ### Mar 17-21 : 25th Fast Software Encryption Conferences ([FSE](https://fse.iacr.org/2025/ "FSE 2025 website")), Roma 🇮🇹 .
