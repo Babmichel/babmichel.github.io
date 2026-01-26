@@ -9,7 +9,7 @@ To contact me try one of this :
 > Phone number (SMS or vocal messages only) : +franceindex630099721 
 
 # Work actuality :
-...  processing  ...
+> Just published a paper in TOSC 2025 about a new Cryptanalysis of GIFT 64 !
 
 
 
