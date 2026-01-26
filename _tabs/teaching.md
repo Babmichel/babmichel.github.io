@@ -18,9 +18,9 @@ order: 2
 >                     : Computer Science (Python), L1 at Diderot University, Paris\
 
 ### Other teaching experiences
-> In october 2024 and 2025 i participate to the RJMI days (Reunion des jeunes mathematiciennes et informaticiennes) by proposing an activity about the history and basis of cryptography in the form of an investigation game.
+> In October 2024 and 2025, I participated to the RJMI days (Reunion des jeunes mathematiciennes et informaticiennes) by proposing an activity about the history and basis of cryptography in the form of an investigation game.
 
-> From 2018 to 2024, I helped some students from my town with some tutoring for highschool and preparatory classroom teaching.
+> From 2018 to 2024, I helped some students from my town with tutoring for high school and preparatory classroom teaching.
 
 
 
