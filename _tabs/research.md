@@ -17,11 +17,11 @@ order: 1
 
 # Publication
 > ### [Improved Cryptanalysis of GIFT-64 ](https://tosc.iacr.org/index.php/ToSC/article/view/12618)
-> * Published in TOSC 2025 and presented at FSE 2026. In this paper, I particularly work on the new Differential Meet-in-the-middle on 22 and 23 rounds of GIFT-64 in the SK setup.
+> * Published in TOSC 2025 and presented at FSE 2026. In this paper, I particularly work on the new Differential Meet-in-the-middle on 21 and 22 rounds of GIFT-64 in the SK setup.
 
-# Conferences and Spring School
+# Conferences
 > * ### Mar 23-27 2026 : 26th Fast Software Encryption Conference ([FSE](https://fse.iacr.org/2026/)), Singapore 🇸🇬.
->   I presented the paper "Improved Cryptanalysis of GIFT 64"; [Paper](https://github.com/Babmichel/babmichel.github.io/blob/main/assets/Final_version_Improved_Cryptanalysis_of_GIFT_64.pdf) [Presentation](https://github.com/Babmichel/babmichel.github.io/blob/main/assets/Final_presentation_Improved_cryptanalysis_of_GIFT_64_FSE_2026.pdf).
+>   I presented the paper "Improved Cryptanalysis of GIFT 64"; [Paper](https://github.com/Babmichel/babmichel.github.io/blob/main/assets/Final_version_Improved_Cryptanalysis_of_GIFT_64.pdf) [Presentation](https://github.com/Babmichel/babmichel.github.io/blob/main/assets/Final_presentation_Improved_cryptanalysis_of_GIFT_64_FSE_2026.pdf). \
 >   This year I was a Merlion at the rumps session 🦁 🧜‍♂️ !
 >
 > * ### Mar 31 - Apr 04 2025 : Codage and Cryptographie ([C2](https://indico.math.cnrs.fr/event/11948/overview "C2 2025 website")) Days 2025 at Pornichet 🇫🇷.
@@ -31,9 +31,8 @@ order: 1
 > I didn't present any paper, but I hope that I was at least a good lion at the rump session 🦁.
 
 # Workshop
-
 > * ### Mar 19-21 2026 : Asian-workshop on Symmetric Cryptanalysis [ASK](https://ask2026.github.io/ "ASK website"), Singapore 🇸🇬.
-> * I was part with group "Automated tools and AI assisted Cryptanalysis" leaded by [Dachao Wang](https://0ng.github.io/). We interest ourselves on the recent result about the uses of IA to improve the search of integral distinguishers. 
+>> * I was part with group "Automated tools and AI assisted Cryptanalysis" leaded by [Dachao Wang](https://0ng.github.io/). We interest ourselves on the recent result about the uses of IA to improve the search of integral distinguishers. 
 >
 > * ### Mar 15 2025 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling ([SKCAM](https://skcamworkshop.github.io/skcam2025/ "SKCAM's website")), Roma 🇮🇹 .
 
