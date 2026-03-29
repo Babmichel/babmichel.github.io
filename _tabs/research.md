@@ -32,7 +32,7 @@ order: 1
 
 # Workshop
 
-> * ### Mar 19-21 2026 : Asian-workshop on Symmetric Cryptanalysis [ASK](https://ask2026.github.io/), Singapore 🇸🇬.
+> * ### Mar 19-21 2026 : Asian-workshop on Symmetric Cryptanalysis [ASK](https://ask2026.github.io/ "ASK website"), Singapore 🇸🇬.
 > * I was part with group "Automated tools and AI assisted Cryptanalysis" leaded by [Dachao Wang](https://0ng.github.io/). We interest ourselves on the recent result about the uses of IA to improve the search of integral distinguishers. 
 >
 > * ### Mar 15 2025 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling ([SKCAM](https://skcamworkshop.github.io/skcam2025/ "SKCAM's website")), Roma 🇮🇹 .
