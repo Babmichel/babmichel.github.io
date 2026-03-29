@@ -22,7 +22,7 @@ order: 1
 # Conferences
 > * ### Mar 23-27 2026 : 26th Fast Software Encryption Conference ([FSE](https://fse.iacr.org/2026/)), Singapore 🇸🇬.
 >   I presented the paper "Improved Cryptanalysis of GIFT 64"; [Paper](https://github.com/Babmichel/babmichel.github.io/blob/main/assets/Final_version_Improved_Cryptanalysis_of_GIFT_64.pdf) [Presentation](https://github.com/Babmichel/babmichel.github.io/blob/main/assets/Final_presentation_Improved_cryptanalysis_of_GIFT_64_FSE_2026.pdf). \
->   This year I was a Merlion at the rumps session 🦁 🧜‍♂️ !
+>   This year I was a Merlion at the rump session 🦁 🧜‍♂️ !
 >
 > * ### Mar 31 - Apr 04 2025 : Codage and Cryptographie ([C2](https://indico.math.cnrs.fr/event/11948/overview "C2 2025 website")) Days 2025 at Pornichet 🇫🇷.
 > I presented my thesis subject and the state of my work at this time ; [Presentation](https://github.com/Babmichel/babmichel.github.io/blob/main/assets/Presentation_Bastien_Michel.pdf "Slides of my presentation").
