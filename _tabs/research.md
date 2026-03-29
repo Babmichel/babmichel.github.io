@@ -38,7 +38,7 @@ order: 1
 > * ### Mar 15 2025 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling ([SKCAM](https://skcamworkshop.github.io/skcam2025/ "SKCAM's website")), Roma 🇮🇹 .
 
 # Schools
-> * ### Mar 16-18 2025, [FSE 2026 Spring school](), Singapore 🇸🇬 :
+> * ### Mar 16-18 2025, [FSE 2026 Spring school](https://fse.iacr.org/2026/ "FSE 2026 website"), Singapore 🇸🇬 :
 > I attended FSE Spring School organized by [Shahram Rasoolzadeh](https://informatik.rub.de/symcrypt/personen/rasoolzadeh/) from CASA, Ruhr-Universität Bochum. With lessons about:
 >> - Key recovery in Differential attakcs by [Ling Song](https://sites.google.com/view/ling-song/home).
 >> - Provable Security in Symmetric Cryptography by [Kazuhiko Minematsu](https://www.nec.com/en/global/rd/people/kazuhiko_minematsu.html).
