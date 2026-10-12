@@ -16,6 +16,7 @@ order: 2
 > \
 > Sep 2025 - Dec 2025 : Computer Science (Java), L1 at Diderot University, Paris\
 >                     : Computer Science (Python), L1 at Diderot University, Paris\
+> \
 > Sep 2026 - Dec 2026 : Computer Science (Java), L1 at Diderot University, Paris\
 
 
