@@ -10,7 +10,8 @@ order: 3
 # Work experience
 
 ## Teaching
-> Oct - Nov 2024 : pratical lessons of Java, L1 Paris Diderot.\
+> Oct - Dec 2024-25-26 : pratical lessons of Java, L1 Paris Cité.\
+> Oct - Dec 2025 : practical lessons of Python, L1 Paris Cité.
 > Jan - March 2025 : Practical Lessons of Cryptography, M1 Data Jussieu.\
 > 2018 - 2024, High school and preparatory classroom tutoring.
 
@@ -36,5 +37,5 @@ order: 3
 > Science spe engineeriging, european section at Lycée Therese planiol
 
 # Others
-> RJMI 2024, INRIA\
+> RJMI 2024 & 2025, INRIA\
 > TRACS 2023 (hackday), Central Supelec
