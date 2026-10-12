@@ -12,10 +12,15 @@ order: 1
 
 # Thesis
 > * I am supervised by [Dr Naya-Plasencia](https://naya.plasencia.free.fr/Maria/index.php?lg=fr&pg=index "Maria's web site") and [Dr Derbez](https://people.irisa.fr/Patrick.Derbez/ "Patrick's website") for "Optimizing cryptanalysis of symmetric primitives" with the funding of the ERC "SoBaSyC" in the [COSMIQ](https://www.inria.fr/fr/cosmiq "COSMIQ's website") team at Inria Paris.
-> * My goal is to encode some informatic tools in order to optimize the cryptanalysis of current symmetric primitives! For now, I am focusing on coding a MILP tool to found optimized differential Meet in the Middle attacks. 
-> * I also look at the construction of structures to improve Differential Meet in the Middle attacks.
+> * My goal is to encode some informatic tools in order to optimize the cryptanalysis of current symmetric primitives! For now, I am focusing on coding a MILP tool to found optimized differential Meet in the Middle attacks on several ciphers. 
+> * I am also looking at the construction of structures to improve Differential Meet in the Middle attacks and their direct comparison to Differential attacks.
+> * I have also implemented a real Differential MITM attack on a toy cipher to underline the proper functioning of the attack framework.
+> * I am currently developing a website to help block cipher cryptography by summarising all the design and attacks of the domain.
 
 # Publication
+> ### [Differential Meet-in-the-Middle Attacks applied to Feistel Ciphers](https://eprint.iacr.org/2025/1911)
+> * Published and presented at Asiacrypt 2026. In this paper I worked on all parts and personally develop the MILP model describe.  
+>
 > ### [Improved Cryptanalysis of GIFT-64 ](https://tosc.iacr.org/index.php/ToSC/article/view/12618)
 > * Published in TOSC 2025 and presented at FSE 2026. In this paper, I particularly work on the new Differential Meet-in-the-middle on 21 and 22 rounds of GIFT-64 in the SK setup.
 
@@ -37,13 +42,16 @@ order: 1
 > * ### Mar 15 2025 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling ([SKCAM](https://skcamworkshop.github.io/skcam2025/ "SKCAM's website")), Roma 🇮🇹 .
 
 # Schools
-> * ### Mar 16-18 2025, [FSE 2026 Spring school](https://fse.iacr.org/2026/ "FSE 2026 website"), Singapore 🇸🇬 :
+> * ### Apr 16-18 2026, Linear Cryptanalysis School, Leuven :belgium :
+>  A school on linear cryptanalysis Taught by Vincent Rijmen and Tim Beyen.
+> 
+> * ### Mar 16-18 2026, [FSE 2026 Spring school](https://fse.iacr.org/2026/ "FSE 2026 website"), Singapore 🇸🇬 :
 > I attended FSE Spring School organized by [Shahram Rasoolzadeh](https://informatik.rub.de/symcrypt/personen/rasoolzadeh/) from CASA, Ruhr-Universität Bochum. With lessons about:
 >> - Key recovery in Differential attakcs by [Ling Song](https://sites.google.com/view/ling-song/home).
 >> - Provable Security in Symmetric Cryptography by [Kazuhiko Minematsu](https://www.nec.com/en/global/rd/people/kazuhiko_minematsu.html).
 >> - Cryptanalysis and Tool-Based Search by [Kai Hu](https://scholar.google.com/citations?user=r2SsuCQAAAAJ&hl=zh-CN).
 > 
-> * ### Mar 10-14 2026, [FSE 2025 Spring school](https://casa.rub.de/en/spring-school-on-symmetric-cryptography "Spring School website"), Roma 🇮🇹 :
+> * ### Mar 10-14 2025, [FSE 2025 Spring school](https://casa.rub.de/en/spring-school-on-symmetric-cryptography "Spring School website"), Roma 🇮🇹 :
 > I attended FSE Spring School organized by CASA, Ruhr-Universität Bochum. With lessons about:
 >> - Boolean Functions by [Anne Canteaut](https://www.rocq.inria.fr/secret/Anne.Canteaut/ "Anne's website").
 >> - Linear and Differential Cryptanalysis by [Tim Beyne](https://cryptanalysis.info/tim/ "Tim's website").
