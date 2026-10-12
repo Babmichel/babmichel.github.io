@@ -42,7 +42,7 @@ order: 1
 > * ### Mar 15 2025 : First Workshop on Symmetric Key Cryptanalysis Automation and Modelling ([SKCAM](https://skcamworkshop.github.io/skcam2025/ "SKCAM's website")), Roma 🇮🇹 .
 
 # Schools
-> * ### Apr 16-18 2026, Linear Cryptanalysis School, Leuven :belgium :
+> * ### Apr 16-18 2026, Linear Cryptanalysis School, Leuven 🇧🇪 :
 >  A school on linear cryptanalysis Taught by Vincent Rijmen and Tim Beyen.
 > 
 > * ### Mar 16-18 2026, [FSE 2026 Spring school](https://fse.iacr.org/2026/ "FSE 2026 website"), Singapore 🇸🇬 :
