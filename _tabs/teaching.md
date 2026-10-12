@@ -16,6 +16,8 @@ order: 2
 > \
 > Sep 2025 - Dec 2025 : Computer Science (Java), L1 at Diderot University, Paris\
 >                     : Computer Science (Python), L1 at Diderot University, Paris\
+> Sep 2026 - Dec 2026 : Computer Science (Java), L1 at Diderot University, Paris\
+
 
 ### Other teaching experiences
 > In October 2024 and 2025, I participated to the RJMI days (Reunion des jeunes mathematiciennes et informaticiennes) by proposing an activity about the history and basis of cryptography in the form of an investigation game.
