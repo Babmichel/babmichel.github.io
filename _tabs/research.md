@@ -19,7 +19,7 @@ order: 1
 
 # Publication
 > ### [Differential Meet-in-the-Middle Attacks applied to Feistel Ciphers](https://eprint.iacr.org/2025/1911)
-> * Published and presented at Asiacrypt 2026. In this paper I worked on all parts and personally develop the MILP model describe.  
+> * Published and presented at Asiacrypt 2026. In this paper I worked on all parts and personally develop the MILP model described.  
 >
 > ### [Improved Cryptanalysis of GIFT-64 ](https://tosc.iacr.org/index.php/ToSC/article/view/12618)
 > * Published in TOSC 2025 and presented at FSE 2026. In this paper, I particularly work on the new Differential Meet-in-the-middle on 21 and 22 rounds of GIFT-64 in the SK setup.
